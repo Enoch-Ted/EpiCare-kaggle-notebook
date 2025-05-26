@@ -5,6 +5,7 @@ This repository contains the Kaggle-based development and experimentation notebo
 
 The notebook demonstrates how a **hybrid CNN-ViT model** is trained and optimized for real-time, on-device lesion classification. The final model is exported to **TensorFlow Lite (TFLite)** for integration into the mobile app.
 
+Models link : https://drive.google.com/drive/folders/1gbP5lf_kbB309HzMhxegYBKdf_kPtKeu?usp=sharing
 ---
 
 ## Notebook Objectives
