@@ -1,5 +1,5 @@
 
-# 🧠 EpiCare - Skin Lesion Classification (Kaggle Notebook)
+# EpiCare - Skin Lesion Classification (Kaggle Notebook)
 
 This repository contains the Kaggle-based development and experimentation notebook for the **EpiCare mobile skin cancer screening project**.
 
@@ -7,7 +7,7 @@ The notebook demonstrates how a **hybrid CNN-ViT model** is trained and optimize
 
 ---
 
-## 📌 Notebook Objectives
+## Notebook Objectives
 
 - Load and preprocess the ISIC skin lesion dataset
 - Build a hybrid model using:
@@ -19,7 +19,7 @@ The notebook demonstrates how a **hybrid CNN-ViT model** is trained and optimize
 
 ---
 
-## 📁 Files in This Repository
+## Files in This Repository
 
 | File | Description |
 |------|-------------|
@@ -36,7 +36,6 @@ The notebook demonstrates how a **hybrid CNN-ViT model** is trained and optimize
 You can open and run the notebook in:
 
 - **Kaggle**: https://www.kaggle.com/code/teddynoughton/vgg16-vit-for-skin-cancer-classification-binary
-- **Colab**: [Open in Google Colab](https://colab.research.google.com/github/Enoch-Ted/EpiCare-kaggle-notebook/blob/main/epicare_cnnvit_notebook.ipynb)
 
 ---
 
